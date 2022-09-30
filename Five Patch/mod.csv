@@ -1,0 +1,10 @@
+rawfile,maps/zombie_pentagon.gsc
+rawfile,maps/zombie_pentagon_elevators.gsc
+rawfile,maps/zombie_pentagon_ffotd.gsc
+rawfile,maps/zombie_pentagon_teleporter.gsc
+rawfile,maps/_zombiemode_ai_thief.gsc
+
+
+rawfile,maps/_zombiemode.gsc
+
+rawfile,clientscripts/zombie_pentagon_ffotd.csc
