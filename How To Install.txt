@@ -1,0 +1,18 @@
+//Developed by Ultimateman
+//Public release: 08/27/2020
+//Want to have an in depth look at the files? Open the map folder and read docx files or dig through the code.
+
+**INSTALLATION**
+
+Copy all the .ff files from the folder called "All Patches In 1 Location"-
+Then open common folder inside your Black Ops Root Folder.
+Path to the exact location: Call of Duty Black Ops > zone > common.
+Replace the old files in common folder with your new files from "All Patches In 1 Location". ( STEAM VERSION )
+Or alternatively put all the patches from the folder to your bo1/mods folder and load the mod you want to you thru game_mod menu launcher! ( GAME_MOD VERSION )
+
+**You are all set now! Go test them out now!**
+
+//common_zombie_patch is already included in every map build so no need to replace it manually.
+
+**Enjoy glitching and have fun!**
+**Any bug related issues contact me on discord: Ultimateman#9753**
