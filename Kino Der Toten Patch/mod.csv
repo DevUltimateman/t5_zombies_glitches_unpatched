@@ -1,0 +1,12 @@
+rawfile,clientscripts/zombie_theater_ffotd.csc
+rawfile,clientscripts/zombie_theater_fx.csc
+
+rawfile,maps/zombie_theater.gsc
+rawfile,maps/zombie_theater_ffotd.gsc
+rawfile,maps/zombie_theater_magic_box.gsc
+rawfile,maps/zombie_theater_movie_screen.gsc
+rawfile,maps/zombie_theater_teleporter.gsc
+
+rawfile,maps/createart/zombie_theater_art.gsc
+
+rawfile,maps/_zombiemode.gsc
